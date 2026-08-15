@@ -1,0 +1,59 @@
+# Kodi Media Center language file
+# Addon Name: Medici.tv
+# Addon id: plugin.audio.medici
+
+msgid ""
+msgstr ""
+"Project-Id-Version: plugin.audio.medici\n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "#30000"
+msgid "Medici.tv"
+msgstr ""
+
+msgctxt "#30001"
+msgid "Authentication"
+msgstr ""
+
+msgctxt "#30002"
+msgid "Email"
+msgstr ""
+
+msgctxt "#30003"
+msgid "Password"
+msgstr ""
+
+msgctxt "#30004"
+msgid "Playback mode"
+msgstr ""
+
+msgctxt "#30005"
+msgid "Audio only"
+msgstr ""
+
+msgctxt "#30006"
+msgid "Audio and video"
+msgstr ""
+
+msgctxt "#30007"
+msgid "Video quality"
+msgstr ""
+
+msgctxt "#30008"
+msgid "Auto (1080p max)"
+msgstr ""
+
+msgctxt "#30009"
+msgid "1080p"
+msgstr ""
+
+msgctxt "#30010"
+msgid "720p"
+msgstr ""
+
+msgctxt "#30011"
+msgid "480p"
+msgstr ""

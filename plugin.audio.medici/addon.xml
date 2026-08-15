@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.audio.medici"
+       name="Medici.tv"
+       version="0.1.0"
+       provider-name="Édouard Duliège">
+
+    <requires>
+        <import addon="xbmc.python" version="3.0.0"/>
+        <import addon="script.module.requests" version="2.31.0"/>
+    </requires>
+
+    <extension point="xbmc.python.pluginsource"
+               library="addon.py">
+        <provides>audio video</provides>
+    </extension>
+
+    <extension point="xbmc.addon.metadata">
+        <summary lang="en_GB">Listen to Medici.tv in audio-only mode</summary>
+        <description lang="en_GB">
+            Browse Medici.tv concerts, operas, ballets, documentaries,
+            master classes and jazz, and play them as audio-only streams or audio+video.
+        </description>
+        <platform>all</platform>
+        <license>MIT</license>
+    </extension>
+
+</addon>
