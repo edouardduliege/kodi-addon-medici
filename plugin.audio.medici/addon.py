@@ -306,7 +306,14 @@ def get_favorites(limit=PAGE_SIZE, offset=0):
         timeout=20,
     )
 
-    if response.status_code == 401:
+    if response.status_code in (401, 403):
+
+        xbmc.log(
+            f"[Medici] access token rejected "
+            f"(HTTP {response.status_code}), refreshing",
+            xbmc.LOGINFO,
+        )
+
         access_token = refresh_access_token()
 
         response = requests.get(
@@ -360,7 +367,14 @@ def get_movie(slug):
         timeout=20,
     )
 
-    if response.status_code == 401:
+    if response.status_code in (401, 403):
+
+        xbmc.log(
+            f"[Medici] access token rejected "
+            f"(HTTP {response.status_code}), refreshing",
+            xbmc.LOGINFO,
+        )
+
         access_token = refresh_access_token()
 
         response = requests.get(
