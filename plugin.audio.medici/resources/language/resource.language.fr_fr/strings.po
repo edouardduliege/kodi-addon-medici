@@ -57,3 +57,143 @@ msgstr "720p"
 msgctxt "#30011"
 msgid "480p"
 msgstr "480p"
+
+msgctxt "#30020"
+msgid "Favorites"
+msgstr "Favoris"
+
+msgctxt "#30021"
+msgid "Concerts"
+msgstr "Concerts"
+
+msgctxt "#30022"
+msgid "Operas"
+msgstr "Opéras"
+
+msgctxt "#30023"
+msgid "Ballets"
+msgstr "Ballets"
+
+msgctxt "#30024"
+msgid "Documentaries"
+msgstr "Documentaires"
+
+msgctxt "#30025"
+msgid "Master classes"
+msgstr "Master classes"
+
+msgctxt "#30026"
+msgid "Jazz"
+msgstr "Jazz"
+
+msgctxt "#30027"
+msgid "Search"
+msgstr "Recherche"
+
+msgctxt "#30028"
+msgid "Next page"
+msgstr "Page suivante"
+
+msgctxt "#30029"
+msgid "Medici.tv information"
+msgstr "Informations Medici.tv"
+
+msgctxt "#30030"
+msgid "Search Medici.tv"
+msgstr "Recherche Medici.tv"
+
+msgctxt "#30031"
+msgid "No detailed information available."
+msgstr "Aucune information détaillée disponible."
+
+msgctxt "#30032"
+msgid "Unable to load detailed information"
+msgstr "Impossible de charger les informations détaillées"
+
+msgctxt "#30033"
+msgid "Medici.tv credentials are not configured"
+msgstr "Identifiants Medici.tv non configurés"
+
+msgctxt "#30034"
+msgid "No video information available"
+msgstr "Aucune information vidéo disponible"
+
+msgctxt "#30035"
+msgid "No stream available"
+msgstr "Aucun flux disponible"
+
+msgctxt "#30036"
+msgid "No usable stream found in the HLS master playlist"
+msgstr "Aucun flux exploitable trouvé dans la playlist HLS principale"
+
+msgctxt "#30037"
+msgid "Unable to sign in to Medici.tv. Check your email and password."
+msgstr "Impossible de se connecter à Medici.tv. Vérifie ton adresse e-mail et ton mot de passe."
+
+msgctxt "#30039"
+msgid "Medici.tv is not responding. Please try again shortly."
+msgstr "Medici.tv ne répond pas. Réessaie dans quelques instants."
+
+msgctxt "#30040"
+msgid "An unexpected error occurred. Please try again."
+msgstr "Une erreur inattendue s’est produite. Réessaie."
+
+msgctxt "#30042"
+msgid "No results for"
+msgstr "Aucun résultat pour"
+
+msgctxt "#30043"
+msgid "Unable to play this content"
+msgstr "Impossible de lire ce contenu"
+
+msgctxt "#30044"
+msgid "OFFLINE"
+msgstr "HORS LIGNE"
+
+msgctxt "#30100"
+msgid "CAST"
+msgstr "CASTING"
+
+msgctxt "#30101"
+msgid "ABOUT"
+msgstr "À PROPOS"
+
+msgctxt "#30102"
+msgid "INFORMATION"
+msgstr "INFORMATIONS"
+
+msgctxt "#30103"
+msgid "PROGRAM"
+msgstr "PROGRAMME"
+
+msgctxt "#30104"
+msgid "WORKS"
+msgstr "ŒUVRES"
+
+msgctxt "#30105"
+msgid "Directed by"
+msgstr "Réalisé par"
+
+msgctxt "#30106"
+msgid "Venue"
+msgstr "Lieu"
+
+msgctxt "#30107"
+msgid "Year"
+msgstr "Année"
+
+msgctxt "#30108"
+msgid "Duration"
+msgstr "Durée"
+
+msgctxt "#30109"
+msgid "Production"
+msgstr "Production"
+
+msgctxt "#30110"
+msgid "Subtitles"
+msgstr "Sous-titres"
+
+msgctxt "#30111"
+msgid "Resolution"
+msgstr "Résolution"

@@ -57,3 +57,143 @@ msgstr ""
 msgctxt "#30011"
 msgid "480p"
 msgstr ""
+
+msgctxt "#30020"
+msgid "Favorites"
+msgstr ""
+
+msgctxt "#30021"
+msgid "Concerts"
+msgstr ""
+
+msgctxt "#30022"
+msgid "Operas"
+msgstr ""
+
+msgctxt "#30023"
+msgid "Ballets"
+msgstr ""
+
+msgctxt "#30024"
+msgid "Documentaries"
+msgstr ""
+
+msgctxt "#30025"
+msgid "Master classes"
+msgstr ""
+
+msgctxt "#30026"
+msgid "Jazz"
+msgstr ""
+
+msgctxt "#30027"
+msgid "Search"
+msgstr ""
+
+msgctxt "#30028"
+msgid "Next page"
+msgstr ""
+
+msgctxt "#30029"
+msgid "Medici.tv information"
+msgstr ""
+
+msgctxt "#30030"
+msgid "Search Medici.tv"
+msgstr ""
+
+msgctxt "#30031"
+msgid "No detailed information available."
+msgstr ""
+
+msgctxt "#30032"
+msgid "Unable to load detailed information"
+msgstr ""
+
+msgctxt "#30033"
+msgid "Medici.tv credentials are not configured"
+msgstr ""
+
+msgctxt "#30034"
+msgid "No video information available"
+msgstr ""
+
+msgctxt "#30035"
+msgid "No stream available"
+msgstr ""
+
+msgctxt "#30036"
+msgid "No usable stream found in the HLS master playlist"
+msgstr ""
+
+msgctxt "#30037"
+msgid "Unable to sign in to Medici.tv. Check your email and password."
+msgstr ""
+
+msgctxt "#30039"
+msgid "Medici.tv is not responding. Please try again shortly."
+msgstr ""
+
+msgctxt "#30040"
+msgid "An unexpected error occurred. Please try again."
+msgstr ""
+
+msgctxt "#30042"
+msgid "No results for"
+msgstr ""
+
+msgctxt "#30043"
+msgid "Unable to play this content"
+msgstr ""
+
+msgctxt "#30044"
+msgid "OFFLINE"
+msgstr ""
+
+msgctxt "#30100"
+msgid "CAST"
+msgstr ""
+
+msgctxt "#30101"
+msgid "ABOUT"
+msgstr ""
+
+msgctxt "#30102"
+msgid "INFORMATION"
+msgstr ""
+
+msgctxt "#30103"
+msgid "PROGRAM"
+msgstr ""
+
+msgctxt "#30104"
+msgid "WORKS"
+msgstr ""
+
+msgctxt "#30105"
+msgid "Directed by"
+msgstr ""
+
+msgctxt "#30106"
+msgid "Venue"
+msgstr ""
+
+msgctxt "#30107"
+msgid "Year"
+msgstr ""
+
+msgctxt "#30108"
+msgid "Duration"
+msgstr ""
+
+msgctxt "#30109"
+msgid "Production"
+msgstr ""
+
+msgctxt "#30110"
+msgid "Subtitles"
+msgstr ""
+
+msgctxt "#30111"
+msgid "Resolution"
+msgstr ""
